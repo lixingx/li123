@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+body,div,input,ul,li{ margin:0; padding:0;}
+li{ list-style:none;}
+body{
+	background-color:#bfbfbf;
+	}
+.box{
+	margin:0 auto;
+	width:420px;
+	height:400px;
+	font-size:22px;
+	color:#fefdfd;
+	background-color:#ffffff;
+	margin-top:100px;
+	}
+.screen{
+	width:420px;
+	height:88px;}
+#screen{
+	width:354px;
+	height:64px;
+	background:#cd2727;
+	border-radius:10px;
+	margin-top:24px;
+	margin-left:33px;
+	color:#fefdfd;
+	text-align:right;
+	font-size:22px;
+	}
+.button{
+	width:378px;
+	height:auto;
+	margin-top:15px;
+	margin-left:38px;
+	
+	}
+li{ 
+	display:inline;
+	
+}
+.button li{
+	float:left;
+	width:53px;
+	height:53px;
+	background-color:#8d7c7c;
+	border-radius:10px;
+	margin-right:21px;
+	margin-bottom:18px;
+	
+	}
+.button input{
+	width:22px;
+	height:22px;
+	margin-top:14px;
+	margin-left:16px;
+	background:#8d7c7c;
+	border:0;
+	color:#fefdfd;
+	font-size:22px;
+	}
+
+.button .ft18{
+	width:46px;
+	height:28px;
+	margin-top:14px;
+	margin-left:6px;
+	
+	}
